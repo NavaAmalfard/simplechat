@@ -1,5 +1,5 @@
 body {
-  background-color: #dddddd;
+  background-color: #3399ff;
   font: 15px Arial, sans-serif;
 }
 
@@ -76,7 +76,7 @@ a {
   flex: 0 0 calc(50% - 100px);
   text-align: right;
 }
- 
+
 .messageimg img {
   max-width: 100%;
   max-height: 300px;
